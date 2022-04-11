@@ -21,3 +21,9 @@
 
 <p>Moteur de workflow (flux de travail) qui permet de lancer des processus comme la détection de bugs, le stockage des modifications de code qui ont été faites par l'équipe de développement, temporairement.</p>
 
+<hr>
+
+<p>Ce processus est important : 
+<ul>
+<li>Facilite le processus de déploiement</li>
+<li>
