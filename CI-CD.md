@@ -13,4 +13,9 @@
 
 ### Processus d'intégration continue
 
-<p>Les équipes implémentent régulièrement
+<p>Les équipes implémentent régulièrement des petites modifications de codes et les fusionnent régulièrement dans un référentiel partagé (Git, etc...)</p>
+
+<p>Automatise le processus de création, mise en paquets et tests du code à chaque validation d'un membre dans le contrôle de version. Ainsi, les équipes peuvent plus facilement modifier plus fréquemment le code, et permet d'améliorer la collaboration et la qualité des applications.</p>
+
+### Processus de livraison continue
+
